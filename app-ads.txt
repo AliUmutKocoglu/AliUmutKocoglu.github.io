@@ -299,3 +299,4 @@ loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 15629, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11347, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
+google.com, pub-9350769584262415, DIRECT, f08c47fec0942fa0
